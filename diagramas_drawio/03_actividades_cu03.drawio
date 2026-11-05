@@ -1,0 +1,153 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="hBw8xoauxh-S55AEVPxZ">
+    <mxGraphModel dx="2264" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xL1wmFMJl-s1jI508yfU-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Jugador" vertex="1">
+          <mxGeometry height="950" width="500" x="-110" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-8" edge="1" parent="xL1wmFMJl-s1jI508yfU-2" source="kLa5HpFCVP_LxoPtmBXX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="kLa5HpFCVP_LxoPtmBXX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-1" parent="xL1wmFMJl-s1jI508yfU-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="135" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-2" parent="xL1wmFMJl-s1jI508yfU-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Seleccionar opción Crear Personaje" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-11" edge="1" parent="xL1wmFMJl-s1jI508yfU-2" source="kLa5HpFCVP_LxoPtmBXX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="kLa5HpFCVP_LxoPtmBXX-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-4" parent="xL1wmFMJl-s1jI508yfU-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Ingresar nombre del personaje" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-13" edge="1" parent="xL1wmFMJl-s1jI508yfU-2" source="kLa5HpFCVP_LxoPtmBXX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="kLa5HpFCVP_LxoPtmBXX-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-15" connectable="0" parent="kLa5HpFCVP_LxoPtmBXX-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;No&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1143" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-5" parent="xL1wmFMJl-s1jI508yfU-2" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="¿El nombre esta vacio?" vertex="1">
+          <mxGeometry height="80" width="140" x="80" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-20" edge="1" parent="xL1wmFMJl-s1jI508yfU-2" source="kLa5HpFCVP_LxoPtmBXX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="kLa5HpFCVP_LxoPtmBXX-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-17" parent="xL1wmFMJl-s1jI508yfU-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Seleccionar clase" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-19" parent="xL1wmFMJl-s1jI508yfU-2" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Elegir clase" vertex="1">
+          <mxGeometry height="50" width="140" x="190" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-41" edge="1" parent="xL1wmFMJl-s1jI508yfU-2" source="kLa5HpFCVP_LxoPtmBXX-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="kLa5HpFCVP_LxoPtmBXX-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-38" parent="xL1wmFMJl-s1jI508yfU-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Mostrar confirmación de personaje creado" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-40" parent="xL1wmFMJl-s1jI508yfU-2" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="385" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="xL1wmFMJl-s1jI508yfU-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="RPG Manager" vertex="1">
+          <mxGeometry height="950" width="500" x="390" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-3" parent="xL1wmFMJl-s1jI508yfU-3" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Mostrar formulario de creación de personaje" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-16" edge="1" parent="xL1wmFMJl-s1jI508yfU-3" source="kLa5HpFCVP_LxoPtmBXX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="kLa5HpFCVP_LxoPtmBXX-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-6" parent="xL1wmFMJl-s1jI508yfU-3" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Mostrar mensaje &quot;El nombre es obligatorio&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-7" parent="xL1wmFMJl-s1jI508yfU-3" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Ingresar nuevamente el nombre" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-33" edge="1" parent="xL1wmFMJl-s1jI508yfU-3" source="kLa5HpFCVP_LxoPtmBXX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="kLa5HpFCVP_LxoPtmBXX-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-23" parent="xL1wmFMJl-s1jI508yfU-3" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Crear personaje con clase Arquero" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-34" edge="1" parent="xL1wmFMJl-s1jI508yfU-3" source="kLa5HpFCVP_LxoPtmBXX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="kLa5HpFCVP_LxoPtmBXX-32">
+          <mxGeometry relative="1" x="-0.1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-22" parent="xL1wmFMJl-s1jI508yfU-3" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Crear personaje con clase Mago" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-35" edge="1" parent="xL1wmFMJl-s1jI508yfU-3" source="kLa5HpFCVP_LxoPtmBXX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="kLa5HpFCVP_LxoPtmBXX-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-21" parent="xL1wmFMJl-s1jI508yfU-3" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Crear personaje con clase Guerrero" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-37" edge="1" parent="xL1wmFMJl-s1jI508yfU-3" source="kLa5HpFCVP_LxoPtmBXX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="kLa5HpFCVP_LxoPtmBXX-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-32" parent="xL1wmFMJl-s1jI508yfU-3" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Crear inventario vacío del personaje" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-36" parent="xL1wmFMJl-s1jI508yfU-3" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Guardar Personaje" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-9" edge="1" parent="1" source="kLa5HpFCVP_LxoPtmBXX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="kLa5HpFCVP_LxoPtmBXX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-10" edge="1" parent="1" source="kLa5HpFCVP_LxoPtmBXX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="kLa5HpFCVP_LxoPtmBXX-4">
+          <mxGeometry relative="1" x="0.0469" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-12" edge="1" parent="1" source="kLa5HpFCVP_LxoPtmBXX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="kLa5HpFCVP_LxoPtmBXX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-14" connectable="0" parent="kLa5HpFCVP_LxoPtmBXX-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Si&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.5067" y="2" as="geometry">
+            <mxPoint x="13" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-24" edge="1" parent="1" source="kLa5HpFCVP_LxoPtmBXX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="kLa5HpFCVP_LxoPtmBXX-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-28" connectable="0" parent="kLa5HpFCVP_LxoPtmBXX-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;[Arquero]&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.6644" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-25" edge="1" parent="1" source="kLa5HpFCVP_LxoPtmBXX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="kLa5HpFCVP_LxoPtmBXX-22">
+          <mxGeometry relative="1" x="-0.092" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="760" />
+              <mxPoint x="480" y="760" />
+              <mxPoint x="480" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-30" connectable="0" parent="kLa5HpFCVP_LxoPtmBXX-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;[Mago]&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2826" y="-2" as="geometry">
+            <mxPoint x="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-26" edge="1" parent="1" source="kLa5HpFCVP_LxoPtmBXX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="kLa5HpFCVP_LxoPtmBXX-21">
+          <mxGeometry relative="1" x="0.2061" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="725" />
+              <mxPoint x="60" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-31" connectable="0" parent="kLa5HpFCVP_LxoPtmBXX-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;[Guerrero]&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0748" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLa5HpFCVP_LxoPtmBXX-39" edge="1" parent="1" source="kLa5HpFCVP_LxoPtmBXX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="kLa5HpFCVP_LxoPtmBXX-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
